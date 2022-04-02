@@ -63,7 +63,8 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording] https://umd.zoom.us/rec/share/TtEz--YPHHKiP58HFpHEUe7kvRZK-YR6ndeS7wZ2-KjGOiUIbh4ob_VnxZJ_XRCE.tw9tRZpWquw18yPc
+
 
 
 ## License
