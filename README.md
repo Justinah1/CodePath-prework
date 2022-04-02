@@ -36,6 +36,7 @@ The following **additional** features are implemented:
 
 - [x] I was going to have one button start and stop the game
 - [x] Some messages are propmted
+- [x] I got the sounds from amazon
 
 ## Video Walkthrough (GIF)
 
@@ -47,16 +48,16 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[w3Schools: generic javascript, html, css syntax]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[This submission is actually the first time I have turned a video into a gif and it was a pretty cool experience. A challenge I also faced was recording a demo of the app, I assumed the sounds were going to get picked up but it didn't in the video and the gif so I kept trying to fix it not knowing there was really nothing to fix. Other than that, submission was pretty straightforward and interesting.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[After finishing this project, I became more interested in seeing how much one could accomplish with simply frontend languages, as well as how to mix them with the backend that I am more comfortable with. Because I mostly develop in Java, my expertise with interface design has been limited to tinkering with views in Android Studio. However, it appears that creating buttons or text, or even styling the website in various colors and fonts, is much easier using html/css. Is it feasible to build a full webapp using only javascript and html/css, and if so, where does the backend fit in? This assignment has shown me how little I understand how to apply the data structures I which I am not surprised about since I am yet tot . What good is it to know how to reverse a linked list or perform quicksort if you don't know how to put it together into a functional webpage or application? While I'll probably continue to use java for the foreseeable future, this project has piqued my curiosity in understanding javascript.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[If I had few more hours, I would learn to perfect my work and add more features such as a scoreboard, or even making the sounds that play pertain to a particular song and inculcate a guess the song mini game.]
 
 
 
